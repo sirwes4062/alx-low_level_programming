@@ -3,6 +3,7 @@
 /**
  * main - this is the main function
  * description - the starting point of a program
+ * Return: 0
  */
 int main(void)
 {
