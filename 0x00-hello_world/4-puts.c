@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * function - main
+ * main - this is the main function
  * description - the starting point of a program
  */
 int main(void)
