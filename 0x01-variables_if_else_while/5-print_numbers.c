@@ -3,7 +3,7 @@
 /**
  * main - Prints all single digit numbers of base 10 starting srom 0.
  *
- * Retutn: always 0
+ * Return: always 0
  */
 int main(void)
 {
