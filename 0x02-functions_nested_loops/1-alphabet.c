@@ -2,6 +2,7 @@
 
 /**
  * print alphabet - function to print abc
+ *
  * Return: always 0
  */
 void print_alphabet(void)
